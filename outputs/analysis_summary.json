@@ -1,0 +1,9 @@
+{
+  "start_date": "2022-02-25",
+  "end_date": "2026-06-02",
+  "n_days": 1559,
+  "negative_corrections": 13,
+  "largest_negative_delta": -83.0,
+  "final_cumulative_broad": 520168,
+  "final_cumulative_heavy": 190169
+}
